@@ -1,0 +1,10 @@
+1) Demonstrate on How to create and setup Metamask account and
+wallet?
+
+i) first go to browser  and type metamask extension.
+ii) you just need to add extension now you clickon extension and add pin.
+iii) click on get start.
+iv) you create waallet click,and create password and confirm password. 
+v) and create click button.next you click and secret  recovery  pharse,fill up the you secret recovery pharse in ordered this is most important password .
+vi) next button click ,and confirm ,
+vii) all done
